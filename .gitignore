@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python
 __pycache__/
 *.pyc
@@ -15,4 +16,23 @@ resume_data.db
 
 # OS files
 .DS_Store
+=======
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Database
+resume_data.db
+
+# OS files
+.DS_Store
+>>>>>>> 5b96f95224f9c5fe4c27254088a6331e04a3a0be
 Thumbs.db

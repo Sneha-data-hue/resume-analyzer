@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "Data Analyst": ["Python", "SQL", "Excel", "Power BI", "Tableau"],
   "Data Scientist": ["Python", "Machine Learning", "Deep Learning", "NLP", "Statistics"],
@@ -19,4 +20,27 @@
     "Game Developer": ["Unity", "Unreal Engine", "C#", "3D Modeling"],
     "Data Engineer": ["Python", "SQL", "ETL", "Big Data"]
 
+=======
+{
+  "Data Analyst": ["Python", "SQL", "Excel", "Power BI", "Tableau"],
+  "Data Scientist": ["Python", "Machine Learning", "Deep Learning", "NLP", "Statistics"],
+  "Web Developer": ["HTML", "CSS", "JavaScript", "React"],
+
+  "Backend Developer": ["Python", "Django", "Flask", "API"],
+
+  "Frontend Developer": ["HTML", "CSS", "JavaScript", "React"],
+
+  "AI Engineer": ["Python", "Deep Learning", "TensorFlow", "NLP"],
+
+  "Business Analyst": ["Excel", "SQL", "Communication", "Data Analysis"],
+    "Project Manager": ["Project Management", "Communication", "Leadership", "Agile"],
+    "Cybersecurity Analyst": ["Network Security", "Penetration Testing", "Incident Response", "Firewalls"],
+    "Cloud Engineer": ["AWS", "Azure", "Google Cloud", "DevOps"],
+    "Mobile App Developer": ["Java", "Kotlin", "Swift", "React Native"],
+    "UX/UI Designer": ["Adobe XD", "Figma", "Sketch", "User Research"],
+    "DevOps Engineer": ["Docker", "Kubernetes", "CI/CD", "AWS"],
+    "Game Developer": ["Unity", "Unreal Engine", "C#", "3D Modeling"],
+    "Data Engineer": ["Python", "SQL", "ETL", "Big Data"]
+
+>>>>>>> 5b96f95224f9c5fe4c27254088a6331e04a3a0be
 }

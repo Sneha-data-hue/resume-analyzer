@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 streamlit
 pandas
 spacy
 pdfplumber
 python-docx
+=======
+streamlit
+pandas
+spacy
+pdfplumber
+python-docx
+>>>>>>> 5b96f95224f9c5fe4c27254088a6331e04a3a0be
 plotly
